@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu May 20 10:16:27 IST 2021
+1.base=D\:\\DEVLOPING MATRIAIL\\Krish Satasiya - Personal Data\\My Application\\CalculateMe\\Application\\app\\build\\intermediates\\merged_assets\\release\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=D\:\\DEVLOPING MATRIAIL\\Krish Satasiya - Personal Data\\My Application\\CalculateMe\\Application\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fonts/productsansbold.ttf
+0.set=ASSET
+0.base=D\:\\DEVLOPING MATRIAIL\\Krish Satasiya - Personal Data\\My Application\\CalculateMe\\Application\\app\\build\\intermediates\\merged_assets\\release\\out
+2.baseType=DIRECTORY
+1.path=fonts/royal_404.ttf

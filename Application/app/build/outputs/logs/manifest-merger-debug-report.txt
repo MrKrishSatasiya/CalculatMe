@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\072440d625c115178cd4c68fc241b4e6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c7720bb9d882fe9e0b7e11b4675560d4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\b53ae1cb4c46aeaf2632e422c408762b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\2dbf58cc8de713c1c373989e6ca0ab4f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\39a4aaf25ba16545fe81460ada9b4643\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\3faea42a31a547706e275fec96dc0aa1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\d59136670014cd4864d9e4d06805133c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\dd67302c2901e911d395d3dd8950fc62\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\6b1feccc420e6b75ba05c26ee76001ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\cc848c4772b79b97b994cd844b65b8af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\dd058fdfc8bff45488bb9a5662bf83a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\7fc8e720af6de8207f9388c54e532ca4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\836a07ba28d5917882787b49822720af\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\f3fc2b39a465dc25b35a74971a46077d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c801354901aa068dcd91b17d01c007c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\1f4b3134f475412a8a5be69b48a1c943\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\5f0074a7c43c571789707f769e42a9c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\aef42a98efb4340d1fc9f8a44e8b2aec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\fa46c79bf8a8f0088ea0f09271baeab3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c16b4f54da24a648aad077bb329f61a8\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\51ce1c461045023707bdf5fc1cd71fd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\79db906cc94dbfbb75ac0c0917048b2a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\26a1d24167a75d899890f8373b010ccd\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\9a674a39aeb51fedd6d92027ee167274\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\52719854fb3d1b56f659ff856555f10e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\34c1a6009396a04393ea8b891f3cd63e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\362e3008b9ee46b129ff15f9ba9170ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\fa92cb74bf3e81c201b529697a3fa4ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\e31521fa6e24fe212b66e588150ca836\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\606eed7c1be02ec95c413c7a0f1c72d1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\6fe1f2339905967e25c55372a69bc21b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\14d3d7f33b29cfc4497a6c791feb6ac3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\442969b092da1c39049e431852db35fe\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:4:2-40
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:3:2-60
+uses-permission#android.permission.INTERNET
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:5:2-63
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:5:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:6:2-75
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:6:19-73
+application
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:7:2-52:16
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\072440d625c115178cd4c68fc241b4e6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\072440d625c115178cd4c68fc241b4e6\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c16b4f54da24a648aad077bb329f61a8\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c16b4f54da24a648aad077bb329f61a8\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\26a1d24167a75d899890f8373b010ccd\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\26a1d24167a75d899890f8373b010ccd\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c16b4f54da24a648aad077bb329f61a8\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:9:3-29
+	android:largeHeap
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:11:3-27
+	android:icon
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:10:3-36
+	android:allowBackup
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:8:3-29
+	android:theme
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:13:3-34
+	android:usesCleartextTraffic
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:12:3-38
+activity#com.calculatMe.KrishSatasiya.MainActivity
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:14:3-24:14
+	android:screenOrientation
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:19:4-40
+	android:hardwareAccelerated
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:17:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:18:4-43
+	android:configChanges
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:16:4-97
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:15:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:20:4-23:20
+action#android.intent.action.MAIN
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:21:5-56
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:21:13-54
+category#android.intent.category.LAUNCHER
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:22:15-62
+activity#com.calculatMe.KrishSatasiya.SplashActivity
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:25:3-30:42
+	android:screenOrientation
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:30:4-40
+	android:hardwareAccelerated
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:28:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:29:4-43
+	android:configChanges
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:27:4-97
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:26:4-34
+activity#com.calculatMe.KrishSatasiya.SettingActivity
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:31:3-36:42
+	android:screenOrientation
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:36:4-40
+	android:hardwareAccelerated
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:34:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:35:4-43
+	android:configChanges
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:33:4-97
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:32:4-35
+activity#com.calculatMe.KrishSatasiya.PrivacypolicyActivity
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:37:3-42:42
+	android:screenOrientation
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:42:4-40
+	android:hardwareAccelerated
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:40:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:41:4-43
+	android:configChanges
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:39:4-97
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:38:4-41
+activity#com.calculatMe.KrishSatasiya.AboutusActivity
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:43:3-48:42
+	android:screenOrientation
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:48:4-40
+	android:hardwareAccelerated
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:46:4-38
+	android:supportsPictureInPicture
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:47:4-43
+	android:configChanges
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:45:4-97
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:44:4-35
+uses-library#org.apache.http.legacy
+ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:49:3-51:30
+	android:required
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:51:4-28
+	android:name
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml:50:4-41
+uses-sdk
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\072440d625c115178cd4c68fc241b4e6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\072440d625c115178cd4c68fc241b4e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c7720bb9d882fe9e0b7e11b4675560d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c7720bb9d882fe9e0b7e11b4675560d4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\b53ae1cb4c46aeaf2632e422c408762b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\b53ae1cb4c46aeaf2632e422c408762b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\2dbf58cc8de713c1c373989e6ca0ab4f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\2dbf58cc8de713c1c373989e6ca0ab4f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\39a4aaf25ba16545fe81460ada9b4643\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\39a4aaf25ba16545fe81460ada9b4643\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\3faea42a31a547706e275fec96dc0aa1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\3faea42a31a547706e275fec96dc0aa1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\d59136670014cd4864d9e4d06805133c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\d59136670014cd4864d9e4d06805133c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\dd67302c2901e911d395d3dd8950fc62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\dd67302c2901e911d395d3dd8950fc62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\6b1feccc420e6b75ba05c26ee76001ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\6b1feccc420e6b75ba05c26ee76001ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\cc848c4772b79b97b994cd844b65b8af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\cc848c4772b79b97b994cd844b65b8af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\dd058fdfc8bff45488bb9a5662bf83a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\dd058fdfc8bff45488bb9a5662bf83a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\7fc8e720af6de8207f9388c54e532ca4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\7fc8e720af6de8207f9388c54e532ca4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\836a07ba28d5917882787b49822720af\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\836a07ba28d5917882787b49822720af\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\f3fc2b39a465dc25b35a74971a46077d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\f3fc2b39a465dc25b35a74971a46077d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c801354901aa068dcd91b17d01c007c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c801354901aa068dcd91b17d01c007c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\1f4b3134f475412a8a5be69b48a1c943\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\1f4b3134f475412a8a5be69b48a1c943\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\5f0074a7c43c571789707f769e42a9c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\5f0074a7c43c571789707f769e42a9c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\aef42a98efb4340d1fc9f8a44e8b2aec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\aef42a98efb4340d1fc9f8a44e8b2aec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\fa46c79bf8a8f0088ea0f09271baeab3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\fa46c79bf8a8f0088ea0f09271baeab3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c16b4f54da24a648aad077bb329f61a8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\c16b4f54da24a648aad077bb329f61a8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\51ce1c461045023707bdf5fc1cd71fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\51ce1c461045023707bdf5fc1cd71fd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\79db906cc94dbfbb75ac0c0917048b2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\79db906cc94dbfbb75ac0c0917048b2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\26a1d24167a75d899890f8373b010ccd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\26a1d24167a75d899890f8373b010ccd\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\9a674a39aeb51fedd6d92027ee167274\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\9a674a39aeb51fedd6d92027ee167274\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\52719854fb3d1b56f659ff856555f10e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\52719854fb3d1b56f659ff856555f10e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\34c1a6009396a04393ea8b891f3cd63e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\34c1a6009396a04393ea8b891f3cd63e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\362e3008b9ee46b129ff15f9ba9170ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\362e3008b9ee46b129ff15f9ba9170ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\fa92cb74bf3e81c201b529697a3fa4ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\fa92cb74bf3e81c201b529697a3fa4ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\e31521fa6e24fe212b66e588150ca836\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\e31521fa6e24fe212b66e588150ca836\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\606eed7c1be02ec95c413c7a0f1c72d1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\606eed7c1be02ec95c413c7a0f1c72d1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\6fe1f2339905967e25c55372a69bc21b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\6fe1f2339905967e25c55372a69bc21b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\14d3d7f33b29cfc4497a6c791feb6ac3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\14d3d7f33b29cfc4497a6c791feb6ac3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\442969b092da1c39049e431852db35fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Krish\.gradle\caches\transforms-2\files-2.1\442969b092da1c39049e431852db35fe\AndroidManifest.xml:20:5-44
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+		ADDED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DEVLOPING MATRIAIL\Krish Satasiya - Personal Data\My Application\CalculateMe\Application\app\src\main\AndroidManifest.xml

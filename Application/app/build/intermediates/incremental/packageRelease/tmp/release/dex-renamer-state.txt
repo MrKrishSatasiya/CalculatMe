@@ -1,0 +1,4 @@
+#Thu May 20 10:16:27 IST 2021
+base.0=D\:\\DEVLOPING MATRIAIL\\Krish Satasiya - Personal Data\\My Application\\CalculateMe\\Application\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
