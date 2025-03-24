@@ -73,4 +73,3 @@ Made with ❤️ by Krish Satasiya
 ---
 
 ### **Do you want me to directly create a `README.md` file and push it to your GitHub repo via a PR?**  
-Or would you like me to format it with badges, images, or custom sections like credits or changelog?
